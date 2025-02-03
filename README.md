@@ -1,9 +1,10 @@
 # 🦸‍♂️ Vue Character Management App
+Aplicación web desarrollada con Vue 3 que permite gestionar personajes
 
 ## 📸 Captura de la Aplicación
 
 <p align="center">
-  <img src="./character-management-app.png" alt="Captura de la aplicación" style="border: 1px solid black; width: 100%; max-width: 100%; height: auto;">
+  <img src="./character-management-app.png" alt="Captura de la aplicación" style="border: 1px solid black; width: 80%; max-width: 80%; height: auto;">
 </p>
 
 ## 📝 Descripción del Proyecto
